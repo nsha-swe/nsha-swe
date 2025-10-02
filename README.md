@@ -2,9 +2,10 @@
 
 # Hi, I'm Nisha   
 
--  🌎 Based in **New York, NY** with a soft spot for the West Coast  
--  💻 Full-stack Software Engineer → React • TypeScript • JavaScript • Python    
--  🤖 Currently exploring **AI/ML** and how it shapes the future of engineering    
+🌎 Based in **New York, NY** with a soft spot for the West Coast  
+<br>
+💻 Full-stack Software Engineer → React • TypeScript • JavaScript • Python    
+🤖 Currently exploring **AI/ML** and how it shapes the future of engineering    
 
 ---
 
