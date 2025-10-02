@@ -11,11 +11,11 @@
 ---
 
 ### 🌱 Fun Facts   
--  📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**
--  <br> 
--  ⛰ Hiking keeps me grounded
--  <br>
--  📚 Bookworm, wandering between imagined worlds and lived truths
+📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**
+<br> 
+⛰ Hiking keeps me grounded
+<br>
+📚 Bookworm, wandering between imagined worlds and lived truths
 
 ---
 
