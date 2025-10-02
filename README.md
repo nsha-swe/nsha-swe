@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hello, I'm Nisha    
+# Hi, I'm Nisha 👋
 
-🌎 New Yorker with a soft spot for the West Coast
+🌎 Based in **New York, NY** — but also a *west coast dreamer*  
 💻 Full-stack Software Engineer | React • TypeScript • JavaScript • Python  
 🤖 Currently exploring **AI/ML** and how it shapes the future of engineering  
+
+---
 
 ---
 
