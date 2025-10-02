@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nisha  
+# Hi, I'm Nisha 🌱  
 
 - 🌎 Based in **New York, NY** with a soft spot for the West Coast  
 - 💻 Full-stack Software Engineer → React • TypeScript • JavaScript • Python    
