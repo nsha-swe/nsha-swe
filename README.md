@@ -8,7 +8,7 @@
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts 🌿   
 - 📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**  
 - ⛰ Hiking keeps me grounded  
 - 📚 Bookworm, wandering between imagined worlds and lived truths
