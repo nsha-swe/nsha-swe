@@ -11,7 +11,7 @@
 ---
 
 ### 🌱 Fun Facts   
-📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**
+📸 Photography enthusiast → shooting on my beloved Fujifilm
 <br> 
 ⛰ Hiking keeps me grounded
 <br>
