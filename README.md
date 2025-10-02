@@ -4,14 +4,17 @@
 
 🌎 Based in **New York, NY** with a soft spot for the West Coast  
 <br>
-💻 Full-stack Software Engineer → React • TypeScript • JavaScript • Python    
+💻 Full-stack Software Engineer → React • TypeScript • JavaScript • Python   
+<br>
 🤖 Currently exploring **AI/ML** and how it shapes the future of engineering    
 
 ---
 
 ### 🌱 Fun Facts   
--  📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**  
--  ⛰ Hiking keeps me grounded  
+-  📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**
+-  <br> 
+-  ⛰ Hiking keeps me grounded
+-  <br>
 -  📚 Bookworm, wandering between imagined worlds and lived truths
 
 ---
