@@ -1,11 +1,10 @@
-<!-- Banner image -->
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%"/>
-</p>
+<div align="center">
 
-# Hi, I'm Nisha Ahamed 👋
+# Hello, I'm Nisha    
 
-🌎 Based in **New York, NY** — but also a *west coast dreamer*  
+## About Me  🌱
+
+🌎 New Yorker with a soft spot for the West Coast
 💻 Full-stack Software Engineer | React • TypeScript • JavaScript • Python  
 🤖 Currently exploring **AI/ML** and how it shapes the future of engineering  
 
@@ -21,14 +20,14 @@
 ### ⚡ Fun Facts
 - 📸 Photography enthusiast — shooting on a **FUJIFILM X-T30 II**  
 - ⛰ Hiking keeps me grounded  
-- 📚 Big fan of books, from tech reads to novels  
+- 📚 Bookworm, wandering between imagined worlds and lived truths
 
 ---
 
 ### 🛠️ Tech Snapshot
 - **Frontend:** React, TypeScript, JavaScript
 - **Backend:** Node.js, Python  
-- **Other Interests:** AI/ML, experimentation frameworks, dashboards  
+- **Other Interests:** AI/ML, experimentation frameworks, fintech products 
 
 ---
 
