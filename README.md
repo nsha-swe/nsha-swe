@@ -2,8 +2,6 @@
 
 # Hello, I'm Nisha    
 
-### About Me  🌱
-
 🌎 New Yorker with a soft spot for the West Coast
 💻 Full-stack Software Engineer | React • TypeScript • JavaScript • Python  
 🤖 Currently exploring **AI/ML** and how it shapes the future of engineering  
