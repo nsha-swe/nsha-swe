@@ -11,7 +11,7 @@
 ---
 
 ### 🌱 Fun Facts   
-📸 Photography enthusiast → shooting on my beloved Fujifilm
+📸 Photography enthusiast → recently traded in my beloved Fujifilm for a vintage Olympus
 <br> 
 ⛰ Hiking keeps me grounded
 <br>
